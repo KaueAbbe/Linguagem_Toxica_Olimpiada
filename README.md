@@ -36,7 +36,7 @@ Para iniciar com o treinamento do modelo fiz duas preparações dos dados:
 
 1. **Bag Of Words:** Porque é uma preparação que criar muitas variáveis com apenas valores binários, esse método de preparação de dados foi utilizado para definir *Baseline* para modelo. Para tal também foi utilizado Logistic Regresion.
    
-| Valor Baseline                      | 0.67              |
+| Valor Baseline                      | 0.69             |
 |-------------------------------------|-------------------|
 
 2. **TF-IDF:** Esta é uma forma mais robusta que atribui valores diferentes para as palavras dentro de uma frase, desta forma, este é o método principal utilizado neste projete de prepação dos dados. 
