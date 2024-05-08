@@ -1,6 +1,6 @@
 <h1 align="center"> Bem vinda(o) ao Projeto - Linguagem Tóxica😊 </h1>
 
-![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=COMPLETO&color=<COLOR>)
+![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=CONSTRUÇÃO&color=<COLOR>)
 
 <h1 align ="center"> Objetivo do Projeto🤔</h1>
 
