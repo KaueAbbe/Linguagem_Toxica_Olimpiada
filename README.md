@@ -116,11 +116,11 @@ Os dados deste projeto foram obtidos no Kaggle, para obter [clique aqui](https:/
 <h4> Feito com 💙 por Kaue Hermann Abbehausen 👋🏽 
 <br/> 
  
- 1. Formado em Física na Universidade Federal de Uberlândia
+ 1.Cientista de Dados
  
- 2. Mestrando em Física Estatística na Universidade de Brasília
-    
- 3. Cientista de Dados</h4>
+ 2. Formado em Física na Universidade Federal de Uberlândia
+ 
+ 3. Mestre em Física Estatística na Universidade de Brasília</h4>
 <h4> Entre em contato por</h4>
 <div align = "center"> 
 
